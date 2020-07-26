@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-07T03:19:12.755Z</updated>
+  <updated>2020-07-26T11:41:32.955Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日记</title>
+    <link href="http://yoursite.com/2020/07/26/%E6%97%A5%E8%AE%B0/"/>
+    <id>http://yoursite.com/2020/07/26/%E6%97%A5%E8%AE%B0/</id>
+    <published>2020-07-26T11:08:00.000Z</published>
+    <updated>2020-07-26T11:41:32.955Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h1 id="日记"><a href="#日记" class="headerlink" title="日记"></a>日记</h1><h2 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h2><h3 id="7-26和鸭王马团出去玩"><a href="#7-26和鸭王马团出去玩" class="headerlink" title="7.26和鸭王马团出去玩"></a>7.26和鸭王马团出去玩</h3><p><img src="http://ww1.sinaimg.cn/large/008883f4gy1gh4lodtogpj32c03401ky.jpg"></p><p><img src="http://ww1.sinaimg.cn/large/008883f4gy1gh4lofr9d8j32c0340u0x.jpg"></p><p><img src="http://ww1.sinaimg.cn/large/008883f4gy1gh4loi6ybgj33402c0b2c.jpg"></p><p><img src="http://ww1.sinaimg.cn/large/008883f4gy1gh4loexbkyj32c0340e82.jpg"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;h1 id=&quot;日记&quot;&gt;&lt;a href=&quot;#日记&quot; class=&quot;headerlink&quot; title=&quot;日记&quot;&gt;&lt;/a&gt;日记&lt;/h1&gt;&lt;h2 id=&quot;2020&quot;&gt;&lt;a href=&quot;#2020&quot; class=&quot;headerlink&quot; title=&quot;2020&quot;&gt;&lt;/a&gt;20
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日记" scheme="http://yoursite.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>建造博客日历</title>
