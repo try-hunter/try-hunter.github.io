@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/%E7%A7%81%E4%BA%BA%E7%A9%BA%E9%97%B4/index.html</loc>
+    <loc>http://yoursite.com/3/index.html</loc>
     
-    <lastmod>2020-08-04T07:01:36.667Z</lastmod>
+    <lastmod>2020-08-04T13:15:44.146Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/1/index.html</loc>
+    
+    <lastmod>2020-08-04T13:13:31.333Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2/index.html</loc>
+    
+    <lastmod>2020-08-04T13:12:34.016Z</lastmod>
     
   </url>
   
